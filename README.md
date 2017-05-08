@@ -1,3 +1,4 @@
+[Back to Plugins overview](https://zerif-shinu.github.io/TerrariaPlugins/)
 # Terraria-Plugin-Template
 Repo for latest TShock Server Plugin Template
 
