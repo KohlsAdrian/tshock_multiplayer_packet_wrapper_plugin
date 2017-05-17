@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-
+﻿
 
 using Terraria;
 using TerrariaApi.Server;
@@ -9,7 +7,7 @@ using TerrariaApi.Server;
 namespace TerrariaPluginTemplate
 {
 
-	[ApiVersion(2, 1)]
+    [ApiVersion(2, 1)]
 	public class MyClass : TerrariaPlugin
 	{
 
