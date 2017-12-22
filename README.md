@@ -4,4 +4,4 @@ Repo for latest TShock Server Plugin Template
 
 Terraria API Version: 2.1
 
-used TShock Mintaka 4.3.24 (Terraria Game Version 1.3.5.3)
+used TShock Mintaka 4.3.25 (Terraria Game Version 1.3.5.3)
