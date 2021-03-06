@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 VisualStudioVersion = 12.0.20827.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMOPlugin", "TerrariaPluginTemplate\MMOPlugin.csproj", "{61944AA8-7461-4330-94B6-1CD28BE1FE9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPPacketWrapper", "TerrariaPluginTemplate\MPPacketWrapper.csproj", "{61944AA8-7461-4330-94B6-1CD28BE1FE9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
